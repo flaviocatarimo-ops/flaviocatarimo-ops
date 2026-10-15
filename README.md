@@ -2,6 +2,7 @@
 
 I´m currenty learning mysql, html, html5, guithub at IEFP
 
+My e-mail is: flaviovarimo@gmail.com
 My linkdin profile: https://www.linkedin.com/in/flávio-da-silva
 
 <p>

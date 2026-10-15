@@ -6,12 +6,19 @@ My e-mail is: flaviovarimo@gmail.com
 
 My linkdin profile: https://www.linkedin.com/in/flávio-da-silva
 
+
+<!-- Importação dos estilos Devicon -->
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+<!-- Ícones das tuas tecnologias -->
 <p>
-  <div style="display: inline_block">
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-  </p>          
-  </div>
+  <i class="devicon-html5-plain colored" style="font-size: 35px;"></i> &nbsp;
+  <i class="devicon-css3-plain colored" style="font-size: 35px;"></i> &nbsp;
+  <i class="devicon-mysql-plain colored" style="font-size: 35px;"></i> &nbsp;
+  <i class="devicon-csharp-line colored" style="font-size: 35px;"></i> &nbsp;
+  <i class="devicon-github-original colored" style="font-size: 35px;"></i> &nbsp;
+  <i class="devicon-vscode-plain colored" style="font-size: 35px;"></i>
+</p>
 
 
 **flaviocatarimo-ops/flaviocatarimo-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

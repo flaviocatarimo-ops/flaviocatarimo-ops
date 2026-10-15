@@ -6,19 +6,15 @@ My e-mail is: flaviovarimo@gmail.com
 
 My linkdin profile: https://www.linkedin.com/in/flávio-da-silva
 
-
-<!-- Importação dos estilos Devicon -->
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
-<!-- Ícones das tuas tecnologias -->
-<p>
-  <i class="devicon-html5-plain colored" style="font-size: 35px;"></i> &nbsp;
-  <i class="devicon-css3-plain colored" style="font-size: 35px;"></i> &nbsp;
-  <i class="devicon-mysql-plain colored" style="font-size: 35px;"></i> &nbsp;
-  <i class="devicon-csharp-line colored" style="font-size: 35px;"></i> &nbsp;
-  <i class="devicon-github-original colored" style="font-size: 35px;"></i> &nbsp;
-  <i class="devicon-vscode-plain colored" style="font-size: 35px;"></i>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
+
 
 
 **flaviocatarimo-ops/flaviocatarimo-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

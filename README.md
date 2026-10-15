@@ -1,6 +1,8 @@
 ## Hi there  i am Flávio Silva👋
 
 I´m currenty learning mysql, html, html5, guithub at IEFP
+
+My linkdin profile: https://www.linkedin.com/in/flávio-da-silva
 <!--
 **flaviocatarimo-ops/flaviocatarimo-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

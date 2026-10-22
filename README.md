@@ -7,7 +7,7 @@ My e-mail is: flaviovarimo@gmail.com
 My linkdin profile: https://www.linkedin.com/in/flávio-da-silva
 
 I worked for 20 years at one of the biggest mold companies in the country. The company made injection molds for automotive industries like BMW, Mercedes, and Volkswagen. I specialized in 3-axis CNC machines, programmed modular software, and planned 3D projects.
-The company headquartes was localizaten in Maceira.lra in Leiria.
+The company headquartes was located in Maceira.lra in Leiria.
 My subdivision was located in Marinha Grande, we specialized in retail sales and milling of steel and aluminum for the mold industry.
 
 Now I'm taking a software development course at IEFP in Marinha Grande

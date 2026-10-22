@@ -6,7 +6,7 @@ My e-mail is: flaviovarimo@gmail.com
 
 My linkdin profile: https://www.linkedin.com/in/flávio-da-silva
 
-I worked at one of the biggest mold companies in the region. The company made injection molds for automotive industries like BMW, Mercedes and Volkswagen. I specialized in CNC machines with 3 axes, programming modular software, and planning 3D projects.
+I worked for 20 years at one of the biggest mold companies in the region. The company made injection molds for automotive industries like BMW, Mercedes, and Volkswagen. I specialized in 3-axis CNC machines, programmed modular software, and planned 3D projects.
 
 Now I'm taking a software development course at IEFP in Marinha Grande
 

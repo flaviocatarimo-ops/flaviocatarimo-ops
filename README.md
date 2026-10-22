@@ -6,8 +6,9 @@ My e-mail is: flaviovarimo@gmail.com
 
 My linkdin profile: https://www.linkedin.com/in/flávio-da-silva
 
+I worked at one of the biggest mold companies in the region. The company made injection molds for automotive industries like BMW, Mercedes and Volkswagen. I specialized in CNC machines with 3 axes, programming modular software, and planning 3D projects.
 
-**flaviocatarimo-ops/flaviocatarimo-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Now I'm taking a software development course at IEFP in Marinha Grande
 
 Here are some ideas to get you started:
 

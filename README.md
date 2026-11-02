@@ -6,6 +6,8 @@ My e-mail is: flaviovarimo@gmail.com
 
 My linkdin profile: https://www.linkedin.com/in/flávio-da-silva
 
+O meu projecto de astronomia na vertente de astrofotografia: https://flaviocatarimo-ops.github.io/Astronomy-site/
+
 I worked for 20 years at one of the biggest mold company in Portugal. The company made injection molds for automotive industries like BMW, Mercedes, and Volkswagen. I specialized in 3-axis CNC machines, programmed modular software, and planned 3D projects.
 The company headquartes was located in Maceira.lra in Leiria.
 My subdivision was located in Marinha Grande, we specialized in retail sales and milling of steel and aluminum for the mold industry.

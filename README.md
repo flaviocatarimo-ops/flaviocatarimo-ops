@@ -1,24 +1,21 @@
-## Hi there  i am Flávio Silva👋
+## Hi there, I am Flávio Silva 👋
 
-I´m currenty learning mysql, html, html5, guithub at IEFP
+I'm currently learning MySQL, HTML, HTML5, and GitHub at IEFP.
 
-My e-mail is: flaviovarimo@gmail.com
+* **E-mail:** flaviovarimo@gmail.com
+* **LinkedIn:** [Flávio da Silva](https://www.linkedin.com/in/fl%C3%A1vio-da-silva)
+* **Project:** [Astronomy Site (Astrofotografia)](https://flaviocatarimo-ops.github.io/Astronomy-site/)
 
-My linkdin profile: https://www.linkedin.com/in/flávio-da-silva
+I worked for 20 years at one of the biggest mold companies in Portugal. The company made injection molds for automotive industries like BMW, Mercedes, and Volkswagen. I specialized in 3-axis CNC machines, programmed modular software, and planned 3D projects.
+The company headquarters was located in Maceira, Leiria.
+My subdivision was located in Marinha Grande; we specialized in retail sales and milling of steel and aluminum for the mold industry.
 
-O meu projecto de astronomia na vertente de astrofotografia: https://flaviocatarimo-ops.github.io/Astronomy-site/
+Now I'm taking a software development course at IEFP in Marinha Grande.
 
-I worked for 20 years at one of the biggest mold company in Portugal. The company made injection molds for automotive industries like BMW, Mercedes, and Volkswagen. I specialized in 3-axis CNC machines, programmed modular software, and planned 3D projects.
-The company headquartes was located in Maceira.lra in Leiria.
-My subdivision was located in Marinha Grande, we specialized in retail sales and milling of steel and aluminum for the mold industry.
+### Here are some ideas to get you started:
 
-Now I'm taking a software development course at IEFP in Marinha Grande
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on iefp
-- 🌱 I’m currently learning mysql, html, html5, guitub
-
+* 🔭 I’m currently working on IEFP projects.
+* 🌱 I’m currently learning MySQL, HTML, HTML5, and GitHub.
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -28,5 +25,3 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=flaviocatarimo-ops&theme=dark&show_icons=true&token=O_TEU_TOKEN_AQUI)

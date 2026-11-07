@@ -29,4 +29,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviocatarimo-ops&theme=dark&show_icons=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=flaviocatarimo-ops&theme=dark&show_icons=true&token=O_TEU_TOKEN_AQUI)
